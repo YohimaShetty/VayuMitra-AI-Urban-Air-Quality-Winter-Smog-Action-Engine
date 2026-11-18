@@ -1,5 +1,5 @@
 # 🌫️ VayuMitra — Urban Air Quality & Winter Smog Action Engine
-
+[![CI](https://github.com/YohimaShetty/VayuMitra-AI-Urban-Air-Quality-Winter-Smog-Action-Engine/actions/workflows/ci.yml/badge.svg)](https://github.com/YohimaShetty/VayuMitra-AI-Urban-Air-Quality-Winter-Smog-Action-Engine/actions/workflows/ci.yml)
 [![Coverage: 98%](https://img.shields.io/badge/Coverage-98%25-emerald.svg)](docs/METRICS.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Deployment-Vercel%20Live-black?logo=vercel)](https://airwise-urban-air-quality-assistant.vercel.app)

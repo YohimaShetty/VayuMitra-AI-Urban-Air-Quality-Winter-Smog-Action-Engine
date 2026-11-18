@@ -1,6 +1,5 @@
-# 🌫️ AirWise — Urban Air Quality & Winter Smog Action Engine
+# 🌫️ VayuMitra — Urban Air Quality & Winter Smog Action Engine
 
-[![CI](https://github.com/SabarishR08/airwise-urban-air-quality-assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/SabarishR08/airwise-urban-air-quality-assistant/actions/workflows/ci.yml)
 [![Coverage: 98%](https://img.shields.io/badge/Coverage-98%25-emerald.svg)](docs/METRICS.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Deployment-Vercel%20Live-black?logo=vercel)](https://airwise-urban-air-quality-assistant.vercel.app)
@@ -11,10 +10,10 @@ Severe winter smog, seasonal agricultural stubble burning, and ground-level atmo
 ---
 
 ## 🔗 Live Links
-- **Production URL**: [https://airwise-urban-air-quality-assistant.vercel.app](https://airwise-urban-air-quality-assistant.vercel.app)
-- **Demo Video (1080p Walkthrough)**: [Watch 1080p Walkthrough Video (Google Drive)](https://drive.google.com/file/d/10_NhPz4X2wbol_FBEOll4otHIVWPuQpi/view?usp=sharing) | [Local File](recordings/airwise_demo_walkthrough_1080p.mp4)
-- **GitHub Repository**: [https://github.com/SabarishR08/airwise-urban-air-quality-assistant](https://github.com/SabarishR08/airwise-urban-air-quality-assistant)
-- **LinkedIn Submission Post**: [View on LinkedIn](https://www.linkedin.com/posts/sabarishr08_promptwars-hack2skill-genai-ugcPost-7528468890159316992-eQ8q)
+- **Production URL**: 
+- **Demo Video (1080p Walkthrough)**: 
+- **GitHub Repository**:[(https://github.com/YohimaShetty/VayuMitra-AI-Urban-Air-Quality-Winter-Smog-Action-Engine.git)](https://github.com/YohimaShetty/VayuMitra-AI-Urban-Air-Quality-Winter-Smog-Action-Engine.git)
+- **LinkedIn Submission Post**: 
 
 ---
 

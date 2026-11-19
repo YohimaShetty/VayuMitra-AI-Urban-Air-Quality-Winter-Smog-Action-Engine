@@ -11,9 +11,9 @@ Severe winter smog, seasonal agricultural stubble burning, and ground-level atmo
 
 ## 🔗 Live Links
 - **Production URL**: https://vayumitraai.vercel.app
-- **Demo Video (1080p Walkthrough)**: 
+- **Demo Video (1080p Walkthrough)**: https://drive.google.com/file/d/1mjNY4VEb3mo-HT9YWE8YGOiW4IUiVGbn/view?usp=sharing
 - **GitHub Repository**:[(https://github.com/YohimaShetty/VayuMitra-AI-Urban-Air-Quality-Winter-Smog-Action-Engine.git)](https://github.com/YohimaShetty/VayuMitra-AI-Urban-Air-Quality-Winter-Smog-Action-Engine.git)
-- **LinkedIn Submission Post**: 
+- **LinkedIn Submission Post**: https://lnkd.in/p/gp3VEKBg
 
 ---
 
